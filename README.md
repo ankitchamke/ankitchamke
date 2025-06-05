@@ -11,7 +11,7 @@ I'm an aspiring developer passionate about learning new technologies and solving
 
 ## 🛠️ Technologies I’m Learning:
 
-* **Python** | **Java**
+* **Python** | **JavaScript**
 * **Web Development** | **Databases**
 * **Algorithms**
 
